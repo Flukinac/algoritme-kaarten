@@ -1,0 +1,13 @@
+$reeks = [6,2,10,4,3,6,9,5,13,7,4,2,5]
+$nieuwereeks []
+$wisseling = true
+n=13
+
+while ($wisseling = true && nog niet aan eind van $reeks){
+	if (reeks[0] < $reeks[1]){
+		voer je de wisseling uit naar $nieuwereeks
+		$wisseling = true;
+	}elseif{ (reeks[0] = $reeks[1]}
+		plaats beide in $nieuwereeks
+}
+
